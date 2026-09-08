@@ -2,6 +2,8 @@
 
 A dependency-free teleprompter that works as a static GitHub Pages site.
 
+AT: https://svetterio.github.io/VetterPrompter
+
 ## Controls
 
 - `Space` — Play / pause scrolling
